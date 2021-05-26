@@ -1,0 +1,7 @@
+C:\Users\JDMil\OneDrive\Desktop\Projects\3.18.2021ClassAssignments\bin\Debug\3.18.2021ClassAssignments.exe.config
+C:\Users\JDMil\OneDrive\Desktop\Projects\3.18.2021ClassAssignments\bin\Debug\3.18.2021ClassAssignments.exe
+C:\Users\JDMil\OneDrive\Desktop\Projects\3.18.2021ClassAssignments\bin\Debug\3.18.2021ClassAssignments.pdb
+C:\Users\JDMil\OneDrive\Desktop\Projects\3.18.2021ClassAssignments\obj\Debug\3.18.2021ClassAssignments.csprojAssemblyReference.cache
+C:\Users\JDMil\OneDrive\Desktop\Projects\3.18.2021ClassAssignments\obj\Debug\3.18.2021ClassAssignments.csproj.CoreCompileInputs.cache
+C:\Users\JDMil\OneDrive\Desktop\Projects\3.18.2021ClassAssignments\obj\Debug\3.18.2021ClassAssignments.exe
+C:\Users\JDMil\OneDrive\Desktop\Projects\3.18.2021ClassAssignments\obj\Debug\3.18.2021ClassAssignments.pdb
